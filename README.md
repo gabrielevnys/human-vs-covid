@@ -7,5 +7,6 @@ License and Attribution:
 2) Losing sound: from https://www.zapsplat.com
 3) Font using Dogica. made by Roberto Mocci, licensed under SIL Open Font License 
 4) Character (Running player) and background made by Benedikta Swasti Renaningtyas
-5) Coronavirus, mask, vaccine, and sanitizer  icons made by https://www.freepik.com from www.flaticon.com
-6) Heart shape from www.pikpng.com
+5) Game Icon made by Gabriele Vaneysa
+6) Coronavirus, mask, vaccine, and sanitizer  icons made by https://www.freepik.com from www.flaticon.com
+7) Heart shape from www.pikpng.com
